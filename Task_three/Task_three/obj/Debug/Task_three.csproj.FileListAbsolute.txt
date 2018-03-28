@@ -1,1 +1,2 @@
 D:\Дима\ШАГ\WinForms\Projects\Task_three\Task_three\bin\Debug\Task_three.exe.config
+D:\Git_hub\WinForms2\Task_three\Task_three\bin\Debug\Task_three.exe.config
