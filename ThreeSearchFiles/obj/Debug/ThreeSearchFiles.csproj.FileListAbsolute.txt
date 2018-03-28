@@ -1,0 +1,16 @@
+D:\Git_hub\WinForms\ThreeSearchFiles\ThreeSearchFiles\bin\Debug\ThreeSearchFiles.exe.config
+D:\Git_hub\WinForms\ThreeSearchFiles\ThreeSearchFiles\bin\Debug\ThreeSearchFiles.exe
+D:\Git_hub\WinForms\ThreeSearchFiles\ThreeSearchFiles\bin\Debug\ThreeSearchFiles.pdb
+D:\Git_hub\WinForms\ThreeSearchFiles\ThreeSearchFiles\obj\Debug\ThreeSearchFiles.csprojResolveAssemblyReference.cache
+D:\Git_hub\WinForms\ThreeSearchFiles\ThreeSearchFiles\obj\Debug\ThreeSearchFiles.FormChildSearchFiles.resources
+D:\Git_hub\WinForms\ThreeSearchFiles\ThreeSearchFiles\obj\Debug\ThreeSearchFiles.FormSearchFilesParent.resources
+D:\Git_hub\WinForms\ThreeSearchFiles\ThreeSearchFiles\obj\Debug\ThreeSearchFiles.Properties.Resources.resources
+D:\Git_hub\WinForms\ThreeSearchFiles\ThreeSearchFiles\obj\Debug\ThreeSearchFiles.csproj.GenerateResource.Cache
+D:\Git_hub\WinForms\ThreeSearchFiles\ThreeSearchFiles\obj\Debug\ThreeSearchFiles.exe
+D:\Git_hub\WinForms\ThreeSearchFiles\ThreeSearchFiles\obj\Debug\ThreeSearchFiles.pdb
+D:\Git_hub\WinForms\ThreeSearchFiles1\ThreeSearchFiles\bin\Debug\ThreeSearchFiles.exe.config
+D:\Git_hub\WinForms\ThreeSearchFiles1\ThreeSearchFiles\obj\Debug\ThreeSearchFiles.exe
+D:\Git_hub\WinForms\ThreeSearchFiles1\ThreeSearchFiles\obj\Debug\ThreeSearchFiles.pdb
+D:\Git_hub\WinForms2\ThreeSearchFiles\bin\Debug\ThreeSearchFiles.exe.config
+D:\Git_hub\WinForms2\ThreeSearchFiles\obj\Debug\ThreeSearchFiles.exe
+D:\Git_hub\WinForms2\ThreeSearchFiles\obj\Debug\ThreeSearchFiles.pdb

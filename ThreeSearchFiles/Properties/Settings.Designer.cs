@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Task_three.Properties
+namespace ThreeSearchFiles.Properties
 {
 
 
