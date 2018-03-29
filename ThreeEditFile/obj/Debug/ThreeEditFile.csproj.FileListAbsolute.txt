@@ -1,0 +1,10 @@
+D:\Git_hub\WinForms2\ThreeEditFile\bin\Debug\ThreeEditFile.exe.config
+D:\Git_hub\WinForms2\ThreeEditFile\bin\Debug\ThreeEditFile.exe
+D:\Git_hub\WinForms2\ThreeEditFile\bin\Debug\ThreeEditFile.pdb
+D:\Git_hub\WinForms2\ThreeEditFile\obj\Debug\ThreeEditFile.csprojResolveAssemblyReference.cache
+D:\Git_hub\WinForms2\ThreeEditFile\obj\Debug\ThreeEditFile.FormParent.resources
+D:\Git_hub\WinForms2\ThreeEditFile\obj\Debug\ThreeEditFile.Properties.Resources.resources
+D:\Git_hub\WinForms2\ThreeEditFile\obj\Debug\ThreeEditFile.csproj.GenerateResource.Cache
+D:\Git_hub\WinForms2\ThreeEditFile\obj\Debug\ThreeEditFile.exe
+D:\Git_hub\WinForms2\ThreeEditFile\obj\Debug\ThreeEditFile.pdb
+D:\Git_hub\WinForms2\ThreeEditFile\obj\Debug\ThreeEditFile.FormChild.resources
