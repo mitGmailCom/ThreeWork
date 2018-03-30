@@ -1,0 +1,10 @@
+D:\Git_hub\WinForms2\ThreeComputerShop\bin\Debug\ThreeComputerShop.exe.config
+D:\Git_hub\WinForms2\ThreeComputerShop\bin\Debug\ThreeComputerShop.exe
+D:\Git_hub\WinForms2\ThreeComputerShop\bin\Debug\ThreeComputerShop.pdb
+D:\Git_hub\WinForms2\ThreeComputerShop\obj\Debug\ThreeComputerShop.ComputerShop.resources
+D:\Git_hub\WinForms2\ThreeComputerShop\obj\Debug\ThreeComputerShop.Properties.Resources.resources
+D:\Git_hub\WinForms2\ThreeComputerShop\obj\Debug\ThreeComputerShop.csproj.GenerateResource.Cache
+D:\Git_hub\WinForms2\ThreeComputerShop\obj\Debug\ThreeComputerShop.exe
+D:\Git_hub\WinForms2\ThreeComputerShop\obj\Debug\ThreeComputerShop.pdb
+D:\Git_hub\WinForms2\ThreeComputerShop\obj\Debug\ThreeComputerShop.csprojResolveAssemblyReference.cache
+D:\Git_hub\WinForms2\ThreeComputerShop\obj\Debug\ThreeComputerShop.FormAddProduct.resources
